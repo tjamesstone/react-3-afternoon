@@ -23,7 +23,7 @@ class App extends Component {
   }
 
   updatePost() {
-  
+    
   }
 
   deletePost() {
@@ -40,6 +40,7 @@ class App extends Component {
     return (
       <div className="App__parent">
         <Header />
+        
 
         <section className="App__content">
 
